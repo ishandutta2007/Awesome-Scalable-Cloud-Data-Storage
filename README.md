@@ -72,9 +72,9 @@ The table below outlines leading commercial cloud object and scalable storage pr
 
 ## 💻 Open-Source GitHub Projects
 
-The following self-hosted object stores, distributed filesystems, and data lake layers are sorted in descending order by **GitHub Star Count**. Star badges link directly to the stargazers page of each repository.
+The following self-hosted object stores, distributed filesystems, and data lake layers are sorted in descending order by **GitHub Stars_Count**. Stars_Badges link directly to the stargazers page of each repository.
 
-| Project | Stars | Language | License | Primary Architectural Use Case |
+| Project | GitHub_Stars | Language | License | Primary Architectural Use Case |
 | :--- | :--- | :--- | :--- | :--- |
 | **[MinIO](https://github.com/minio/minio)** | [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers) | Go | AGPL-3.0 | The de facto standard S3-compatible object store. Single binary deployment with rich API support (*note: community releases in maintenance mode; see forks*). |
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go | MIT | Universal cloud storage data sync engine and virtual S3 file system mounter supporting 70+ cloud storage backends. |
