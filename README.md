@@ -1,4 +1,11 @@
-# ☁️ Awesome Scalable Cloud Data Storage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# ☁️ Awesome Scalable Cloud Data Storage
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?ttyle=flat-suuare&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Scalable Cloud Data Storage Banner" width="100%">
@@ -38,6 +45,8 @@ The sector is **moderately concentrated at the hyperscaler infrastructure layer*
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🧭 Decision & Architecture Guide](#-decision--architecture-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#-disclaimer)
 
 ---
@@ -116,6 +125,23 @@ Contributions are welcome! To suggest or add a new SaaS platform or open-source 
 2. 📝 Edit `README.md` keeping the tabular format and verified factual descriptions.
 3. ⭐ Ensure open-source projects include a valid stargazers link badge.
 4. 🚀 Submit a Pull Request detailing the advantages, license, and architectural highlights of the proposed project.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and using this curated directory! If you found this repository helpful, please consider showing your support:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute new tools or architectural updates.
+- 📢 **Share** with your network, DevOps teams, and platform architects.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support continued maintenance and curation of open developer resources, you can sponsor the project via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Scalable-Cloud-Data-Storage&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Scalable-Cloud-Data-Storage&type=date&legend=top-left)
 
 ---
 
